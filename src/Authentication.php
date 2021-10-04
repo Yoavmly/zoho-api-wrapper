@@ -10,7 +10,7 @@ class Authentication
 {
     //Default API Domain
     protected $api_domain = "https://www.zohoapis.com";
-    private $ext = "crm/v2/";
+    private $ext = "crm/v2.1/";
     /**
      * Zoho Authentication API url base part
      */
