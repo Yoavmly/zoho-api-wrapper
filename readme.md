@@ -1,4 +1,4 @@
-# ZOHO CRM API V2 Wrapper for Laravel 5|6|7|8
+# ZOHO CRM API V2.1 Wrapper for Laravel 5|6|7|8
 
 [![Laravel 5.x](https://img.shields.io/badge/Laravel-5.x-orange.svg)](http://laravel.com)
 [![Latest Stable Version](https://img.shields.io/packagist/v/asad/laravel-zoho-api-wrapper.svg)](https://packagist.org/packages/asad/laravel-zoho-api-wrapper)
@@ -6,7 +6,7 @@
 [![Total Downloads](https://poser.pugx.org/asad/laravel-zoho-api-wrapper/downloads.png)](https://packagist.org/packages/asad/laravel-zoho-api-wrapper)
 [![License](https://img.shields.io/github/license/mashape/apistatus.svg)](https://packagist.org/packages/asad/laravel-zoho-api-wrapper)
 
-To easing [ZOHO](https://www.zoho.com/crm/developer/docs/api/overview.html) REST API V2 call for Laravel application.
+To easing [ZOHO](https://www.zoho.com/crm/developer/docs/api/overview.html) REST API V2.1 call for Laravel application.
 
 ## Requirements
 
